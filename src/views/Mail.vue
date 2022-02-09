@@ -1,5 +1,5 @@
 <template>
   <div class="about">
-    <h1>メールアドレス</h1>
+    <h1>メールアドレスページ</h1>
   </div>
 </template>
