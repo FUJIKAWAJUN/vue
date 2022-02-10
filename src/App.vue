@@ -71,9 +71,9 @@
     data: () => ({
       drawer: null,
       links: [
-        ['mdi-inbox-arrow-down', '名前', '/name'],
-        ['mdi-send', 'メールアドレス', '/mail'],
-        ['mdi-delete', '住所', '/address'],
+        ['mdi-account', '名前', '/name'],
+        ['mdi-alpha-m-box-outline', 'メールアドレス', '/mail'],
+        ['mdi-map-marker-outline', '住所', '/address'],
       ],
     }),
   }
